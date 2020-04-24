@@ -9,7 +9,7 @@ You can see the sample output video [here](https://drive.google.com/open?id=1YOQ
 
 ## Dependencies
 
-Python3, opencv 3, darkflow.
+Python3, opencv, darkflow.
 
 ### Getting started
 
