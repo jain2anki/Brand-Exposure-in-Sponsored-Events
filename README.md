@@ -2,7 +2,7 @@
 
 Real-time logo detection and classification using yolo v3
 
-You can learn about YOLOv3 from  [here](https://https://pjreddie.com/darknet/yolo/)
+You can learn about YOLOv3 from  [here](https://pjreddie.com/darknet/yolo/)
 
 In this demo, I trained the YOLOv3 algorithm on dataset containing ~500 images of Samsung and Vivo brand logos and their corresponding annotations.
 You can see the sample output video [here](https://drive.google.com/open?id=1YOQvpdWiNouumIfovAB4IEB76I7W6v8c)
